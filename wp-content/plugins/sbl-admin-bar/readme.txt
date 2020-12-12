@@ -1,14 +1,14 @@
 === SBL Admin Bar ===
 Contributors: lienhard
 Donate link: https://www.paypal.com/paypalme/sblienhard
-Tags: admin bar, adminbar
+Tags: admin bar, adminbar, hotkey, hotkeys, toolbar
 Requires at least: 4.3
-Tested up to: 5.5
+Tested up to: 5.6
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-SBL Admin Bar allows you to dynamically turn the Admin Bar on/off using the keys control-shift-a
+SBL Admin Bar allows you to dynamically turn the Admin Bar on/off using the hotkeys CONTROL-SHIFT-A. Can be enabled and disabled by user role.
 
 == Description ==
 
@@ -31,3 +31,10 @@ OR
 2. Login to your WordPress and go to the Add Plugins page.
 3. Click Upload Plugin button to upload the zip.
 4. Click Install Now to install and activate the plugin.
+
+== Screenshots ==
+
+1. SBL Admin Bar settings can be found in the Settings menu
+2. Enable or disable the hotkey CONTROL-SHIFT-A by user role in settings
+3. Popup to acknowledge admin bar OFF after entering control-shift-a
+4. Popup to acknowledge admin bar ON after entering control-shift-a
