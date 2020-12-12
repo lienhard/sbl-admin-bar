@@ -12,9 +12,7 @@ SBL Admin Bar allows you to dynamically turn the Admin Bar on/off using the hotk
 
 == Description ==
 
-Is the Admin Bar in the way while designing the site?  Enter control-shift-a while logged into
-the front end of the site to toggle the admin bar on/off.  You will see a temporary dialog confirming
-if the admin bar is on or off.  Refresh the page to see the result.
+Is the Admin Bar in the way while designing the site?  Enter control-shift-a while logged into the front end of the site to toggle the admin bar on/off.  You will see a temporary dialog confirming if the admin bar is on or off.  Refresh the page to see the result.
 
 You can enable or disable this feature by user role from the admin under Settings => SBL Admin Bar
 
